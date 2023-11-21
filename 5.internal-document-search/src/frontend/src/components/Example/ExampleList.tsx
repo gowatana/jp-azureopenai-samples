@@ -9,11 +9,11 @@ export type ExampleModel = {
 
 const EXAMPLES: ExampleModel[] = [
     {
-        text: "就業規則とは何ですか？",
-        value: "就業規則とは何ですか？"
+        text: "vSAN Maxとは？",
+        value: "vSAN Maxとは？"
     },
-    { text: "人事はどのような仕事をしますか？", value: "人事はどのような仕事をしますか？" },
-    { text: "休暇にはどんな種類がありますか？", value: "休暇にはどんな種類がありますか？" }
+    { text: "vSAN ESAのメリットは？", value: "vSAN ESAのメリットは？" },
+    { text: "vSANがんばるます", value: "vSANがんばるます" }
 ];
 
 interface Props {
